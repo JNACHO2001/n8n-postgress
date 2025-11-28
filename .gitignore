@@ -1,0 +1,12 @@
+# Environments
+.env
+docker/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# n8n
+.n8n/
+n8n_data/
+pg_data/
